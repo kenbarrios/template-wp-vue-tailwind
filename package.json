@@ -1,0 +1,26 @@
+{
+  "name": "djargondragon",
+  "version": "1.0.0",
+  "description": "A website of socialist (d)jargon",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx mix watch",
+    "build": "npx mix"
+  },
+  "author": "Ken Barrios",
+  "license": "ISC",
+  "devDependencies": {
+    "@vue/compiler-sfc": "^3.0.5",
+    "laravel-mix": "^6.0.2",
+    "vue-loader": "^16.0.0-alpha.3"
+  },
+  "volta": {
+    "node": "15.0.0"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss": "^8.2.2",
+    "tailwindcss": "^2.0.2",
+    "vue": "^3.0.5"
+  }
+}
