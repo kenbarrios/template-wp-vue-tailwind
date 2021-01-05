@@ -1,7 +1,7 @@
 {
-  "name": "djargondragon",
+  "name": "template-wp-vue-tailwind",
   "version": "1.0.0",
-  "description": "A website of socialist (d)jargon",
+  "description": "Template for a wordpress theme using vue and tailwind",
   "main": "index.js",
   "scripts": {
     "watch": "npx mix watch",
