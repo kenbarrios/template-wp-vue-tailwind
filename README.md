@@ -10,3 +10,4 @@ This is just a skeleton to avoid revisiting
 
 Nothing else here except a baseline to build out a theme.
 
+Naturally, this would go in the [root]/wp-content/themes/ folder.
